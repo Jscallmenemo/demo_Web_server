@@ -5,10 +5,10 @@ Installing and Configuration My Simple Web Server
 sebagai tugas final project mata kuliah OS Server dan System Admin, saya akan membuat layanan Web Server.
 
 # Bahan yang harus dipersiapkan untuk membuat Web Server
-1. Oracle VM 7.0 - Virtual Machine
-2. Iso Ubuntu Server - Ubuntu Server 22.04.3
-3. NginX
-4. PHP - PHP Version 8+
+1. Virtual Machine
+2. Iso Ubuntu Server - Ubuntu Server 20
+3. Apache2
+4. PHP 
 5. MySQL
 
 # Update Progress
