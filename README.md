@@ -16,6 +16,6 @@ sebagai tugas final project mata kuliah OS Server dan System Admin, saya akan me
 2. Instalasi Ubuntu Server pada Virtual Machine
 3. Membuat Akun Github
 4. Mulai mengisi repository Github
-bash'''
+```bash
 apt-get install apache2
-'''
+```
