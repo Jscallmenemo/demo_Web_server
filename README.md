@@ -82,5 +82,10 @@ sudo systemctl status apache2
              └─4637 /usr/sbin/apache2 -k start
 ```
 
+langkah 5 : Memindahkan File HTML ke Ubuntu Server
+untuk memindahkan file menggunakan software WinSCP, masukkan Hostname, Ip address dan password ubuntu serve
+![image](https://github.com/Jscallmenemo/demo_Web_server/assets/144584471/35d2d250-5b6b-4289-bb6d-28090ebd6f56)
+
+
 
 
